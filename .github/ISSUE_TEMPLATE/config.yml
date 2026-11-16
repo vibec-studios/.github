@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Downloads
+    url: https://vibec-studios.github.io/downloads/
+    about: Every release with checksum and VirusTotal scan.
+  - name: Vibey relay status
+    url: https://vibec-studios.github.io/status/
+    about: Check whether the relay is up before reporting connection problems.

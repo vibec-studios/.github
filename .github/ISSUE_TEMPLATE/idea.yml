@@ -1,0 +1,16 @@
+name: Idea
+description: Suggest a feature, a boss mechanic or anything else. German is fine too.
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would you like to see, and why would it make the mod better?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Anything else?
+      description: Sketches, screenshots, references from other games or mods.
