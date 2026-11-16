@@ -60,9 +60,9 @@ with a checksum and a VirusTotal scan.
   <tr>
     <td width="76" align="center"><img src="assets/icons/vibey.png" width="56" height="56" alt=""></td>
     <td>
-      <b><a href="https://github.com/vibec-studios/vibey-multiplayer">Vibey Multiplayer</a></b> · mod · <i>coming soon</i><br>
+      <b><a href="https://github.com/vibec-studios/vibey-multiplayer">Vibey Multiplayer</a></b> · mod · <i>released</i><br>
       Host your singleplayer world for friends from anywhere. One fixed address, no port forwarding, no server.<br>
-      <sub><a href="https://vibec-studios.github.io/mods/vibey/">Website</a> · <a href="https://vibec-studios.github.io/status/">Relay status</a> · Fabric &amp; NeoForge · Minecraft 1.21 – 26.3</sub>
+      <sub><a href="https://vibec-studios.github.io/mods/vibey/">Website</a> · <a href="https://vibec-studios.github.io/downloads/#vibey">Download</a> · <a href="https://vibec-studios.github.io/status/">Relay status</a> · Fabric &amp; NeoForge · Minecraft 1.21 – 26.3</sub>
     </td>
   </tr>
 </table>
