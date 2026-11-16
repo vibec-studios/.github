@@ -18,7 +18,7 @@ with a checksum and a VirusTotal scan.
 
 ### HHA series
 
-<table>
+<table width="100%">
   <tr>
     <td width="76" align="center"><img src="assets/icons/hha.png" width="56" height="56" alt=""></td>
     <td>
@@ -56,7 +56,7 @@ with a checksum and a VirusTotal scan.
 
 ### Standalone
 
-<table>
+<table width="100%">
   <tr>
     <td width="76" align="center"><img src="assets/icons/vibey.png" width="56" height="56" alt=""></td>
     <td>
