@@ -48,7 +48,7 @@ with a checksum and a VirusTotal scan.
     <td width="76" align="center"><img src="assets/icons/arius.png" width="56" height="56" alt=""></td>
     <td>
       <b><a href="https://github.com/vibec-studios/hha-arius">HHA Arius</a></b> · addon · <i>released</i><br>
-      The White Blade: a duel against Arius and the white dragon Nivaris, and the Eirholm frost armour.<br>
+      The White Blade: a duel against Arius and Solvane, the white dragon his sword once was, and the Dragonheart Watch armour.<br>
       <sub><a href="https://vibec-studios.github.io/mods/arius/">Website</a> · <a href="https://vibec-studios.github.io/downloads/#arius">Download</a> · Fabric · Minecraft 1.21.11</sub>
     </td>
   </tr>
