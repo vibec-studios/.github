@@ -27,6 +27,7 @@ Each repository carries:
 | Repository | Terms | Why |
 |---|---|---|
 | `vibe-backend` | proprietary, all rights reserved | closed source service |
+| `vibe-backend`: `packages/sdk`, `packages/shared` | MIT | public client SDK, also vendored into the open source launcher |
 | `hha-arius`, `HHA_void` | MIT (as published) | co-authored with Crix05z; changes only with their agreement |
 | `hha-blood` | no license yet (all rights reserved by its authors) | made by Crix05z; their call |
 | `vibey-client`, `vibey-multiplayer`, `vibey-lyrics`, `HHA` | Apache-2.0 from 2026-11-18 | releases published before that date stay under MIT |
