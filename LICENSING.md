@@ -11,7 +11,7 @@ This page is the licensing policy for **all repositories** of
 | **Source code** (incl. build scripts, configs, docs) | [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0): fork, change and share it, also commercially |
 | **Names and logos** ("Vibe", "Vibey", "Vibe Craft Studios", "H&H Armors", the seal …) | not licensed, see [TRADEMARKS.md](TRADEMARKS.md): forks need their own name and look |
 | **Artwork and models** (textures, models, animations, sounds, cosmetics, icons, screenshots, branding) | all rights reserved, see [ASSETS-POLICY.md](ASSETS-POLICY.md) |
-| **Online services** (vibe.henny.dev, the Vibey relay, …) | official builds only, see [SERVICES.md](SERVICES.md) |
+| **Online services** (vibe.axolite.app, the Vibey relay, …) | official builds only, see [SERVICES.md](SERVICES.md) |
 
 In short: **you may fork our code, but not publish it under our names, with our art, or connected to our servers.**
 

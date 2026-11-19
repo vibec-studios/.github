@@ -2,9 +2,10 @@
 
 Vibe Craft Studios operates online services for its own apps:
 
-- the Vibe backend at `vibe.henny.dev` (accounts, friends, chats, presence, invites, shared modpacks, cosmetics
+- the Vibe backend at `vibe.axolite.app` (formerly `vibe.henny.dev`, still served) (accounts, friends, chats, presence, invites, shared modpacks, cosmetics
   catalog, cosmetic assets, loadouts, client downloads, submissions, all APIs and the realtime gateway),
-- the Vibey relay at `vibey.henny.dev` and `*.vibey.henny.dev`,
+- the Vibey relay at `relay.axolite.cc` and `*.axolite.cc` (formerly `vibey.henny.dev` and `*.vibey.henny.dev`, still
+  served), invite links at `axolite.cc` and the status API at `status.axolite.app`,
 - any other host we use for the same purpose.
 
 The open source license of the code **does not include any right to use these services**. They are offered only to
