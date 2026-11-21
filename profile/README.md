@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://vibe.axolite.app/"><img src="assets/banner.png" alt="Vibe Craft Studios: mods that feel like a game of their own" width="100%"></a>
+  <a href="https://vibe.axolite.app/"><img src="assets/banner.png" alt="Vibe Craft Studios: Minecraft with mods. One click. The Vibe Launcher." width="100%"></a>
 </p>
 
 <p align="center">
